@@ -5,4 +5,4 @@ fix fot this
 https://www.reddit.com/r/PathOfExile2/s/uKWOD6T1LY
 
 
-replace this file here: /Documents/My Games/Path of Exile 2/poe2_production_Loaded.mtx with [this file](https://github.com/AiSatan/poe-mtx-fix/blob/main/poe2_production_Loaded.mtx) (or just open it in the notepad and replace the content)
+replace this file here: ```/Documents/My Games/Path of Exile 2/poe2_production_Loaded.mtx``` with [this file](https://github.com/AiSatan/poe-mtx-fix/blob/main/poe2_production_Loaded.mtx) (or just open it in the notepad and replace the content)

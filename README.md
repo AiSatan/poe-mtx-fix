@@ -1,4 +1,4 @@
-fix foe this post: 
+fix for this post: 
 https://www.reddit.com/r/PathOfExile2/s/uKWOD6T1LY
 
 
